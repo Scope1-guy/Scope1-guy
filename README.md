@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm SAMUEL ENIOLA OLALEKAN
-💻 Front-end Developer
-🏛️ Building cool projects & solving real-world problems
+💻 Front-end Developer.
+🏛️ Building cool projects & solving real-world problems.
 - 🔭 I love coding in HTML, CSS, JAVASCRIPT
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on ...
